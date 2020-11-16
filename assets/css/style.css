@@ -50,6 +50,10 @@
 
 /* Feature Area css
 ============================================================================================ */
+.thankyou_message{
+  display:none;
+  padding: 90px 120px;
+}
 .feature_area {
   background: #f9f9ff; }
   .feature_area.feature_tow {
